@@ -2,3 +2,8 @@
     margin: 0;
     padding: 0;
 }
+::-webkit-scrollbar,
+::-webkit-scrollbar-thumb,
+::-webkit-scrollbar-track {
+    display: none;
+}
